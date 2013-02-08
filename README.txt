@@ -1,4 +1,4 @@
-Proyect �En qu� lo gaste?
+Proyect ¿En qué lo gaste?
 Website: www.enquelogaste.com.ar
 
 DATABASE:
